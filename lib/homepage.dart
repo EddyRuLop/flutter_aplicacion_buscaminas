@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/bomb.dart';
-import 'package:flutter_application_1/numberbox.dart';
+import 'package:flutter_aplicacion_buscaminas/bomb.dart';
+import 'package:flutter_aplicacion_buscaminas/numberbox.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
